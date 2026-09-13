@@ -23,7 +23,7 @@ The main objectives of this project are:
 
 ## Tools Used
 
-- Microsoft Excel
+- MS Excel
 - MySQL
 - Power BI
 - GitHub
